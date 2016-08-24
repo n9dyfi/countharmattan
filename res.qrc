@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Dial.qml</file>
+        <file>qml/Digit.qml</file>
+        <file>bell.wav</file>
+        <file>qml/About.qml</file>
+        <file>qml/Countdown.qml</file>
+    </qresource>
+</RCC>
